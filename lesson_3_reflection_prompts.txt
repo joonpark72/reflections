@@ -16,14 +16,17 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Can work on changes independently, which may or may not be ideal...
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    We can always use other version control software or built-in collaboration
+    tools.  Keeping track may or may not be easier depending on the amount of
+    changes and stages we expect.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    New features or divergent path is needed apart from incremental changes to
+    the master branch.
